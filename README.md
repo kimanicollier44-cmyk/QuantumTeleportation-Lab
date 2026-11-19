@@ -1,4 +1,4 @@
-![QuantumTeleportation-Lab cover](assets/cover.png)
+![QuantumTeleportation-Lab cover](QuantumTeleportation-Lab%20cover.png)
 
 # QuantumTeleportation-Lab ⚛️📡
 
